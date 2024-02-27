@@ -10,9 +10,9 @@ This project isn't intended to be a public resource, but if you're curious about
 
 This project is organized as follows:  
 
-notes: This folder contains markdown files with my learning notes and summaries. Each file might be named according to a specific topic or lesson learned.  
-resources: This folder contains links or copies of helpful resources, such as tutorials, documentation, or articles, that I've found useful in my learning journey.  
-code: This folder  might contain code examples, practice projects, or exercises.  
+* notes: This folder contains markdown files with my learning notes and summaries. Each file might be named according to a specific topic or lesson learned.  
+* resources: This folder contains links or copies of helpful resources, such as tutorials, documentation, or articles, that I've found useful in my learning journey.  
+* code: This folder contains code examples, practice projects, or exercises.  
 
 ## Disclaimer  
 This project is primarily for my own learning purposes and may contain incomplete or inaccurate information. It's not intended to be a comprehensive guide.  
