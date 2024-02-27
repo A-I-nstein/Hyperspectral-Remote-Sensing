@@ -26,5 +26,5 @@
 ## Images
 
 ![Electromagentic Spectrum](https://github.com/A-I-nstein/Hyperspectral-Remote-Sensing/blob/main/images/electromagnetic-spectrum.png)\
-![High and low spectral resolution](images\high-low-spectral-resolution.jpg)\
-![Multi and hyper spectral data](images\multi-hyper-spectral.jpg)
+![High and low spectral resolution](https://github.com/A-I-nstein/Hyperspectral-Remote-Sensing/blob/main/images/high-low-spectral-resolution.jpg)\
+![Multi and hyper spectral data](https://github.com/A-I-nstein/Hyperspectral-Remote-Sensing/blob/main/images/multi-hyper-spectral.jpg)
