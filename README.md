@@ -15,4 +15,4 @@ This project is organized as follows:
 * code: This folder contains code examples, practice projects, or exercises.  
 
 ## Disclaimer  
-This project is primarily for my own learning purposes and may contain incomplete or inaccurate information. It's not intended to be a comprehensive guide.  
+This project is primarily for my own learning purposes and may contain incomplete or inaccurate information. It's not intended to be a comprehensive guide. The images/graphics used are not mine unless and until specifically mentioned.    
