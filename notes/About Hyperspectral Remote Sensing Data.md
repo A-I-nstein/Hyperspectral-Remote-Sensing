@@ -25,6 +25,6 @@
 
 ## Images
 
-![Electromagentic Spectrum](images\electromagnetic-spectrum.png)\
+![Electromagentic Spectrum](..\images\electromagnetic-spectrum.png)\
 ![High and low spectral resolution](images\high-low-spectral-resolution.jpg)\
 ![Multi and hyper spectral data](images\multi-hyper-spectral.jpg)
